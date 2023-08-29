@@ -1,6 +1,8 @@
 # Hi there, I'm Lucas! 👋 
 
-I've been a software developer and back-end engineer. I'm currently a Backend Engineer working at Wildlife Studios. Loving gaming, reading and swimming.
+I've been a software developer and back-end engineer. I'm currently a Backend Engineer working at Wildlife Studios. Loving gaming, reading, and swimming.
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-koontz/)
 
 ## backend \| software engineer
 ```
@@ -52,6 +54,8 @@ softskills = {
 unreal
 c++
 ```
+
+[![ProfileViews](https://komarev.com/ghpvc/?username=lucas-koontz)](https://github.com/lucas-koontz)
 
 
 <!--
